@@ -3,7 +3,7 @@
 **Machine Learning and Full-Stack Developer** based in Vancouver, BC.
 
 - 🎓 **Final-year Computer Science student at UBC** (GPA: **4.0/4.33**)
-- 🏆 **SWE Intern** at Metrized Consulting Inc. (09/2023–08/2024), building ML-powered web applications
+- 🏆 **ML & SWE Intern** at Metrized Consulting Inc. (09/2023–08/2024), building ML-powered web applications
 - 💻 **Undergraduate Research Assistant** at Systopia Lab (05/2023–12/2023), focusing on ML for climate science
 
 ---
