@@ -15,7 +15,7 @@
 ![LinkedIn Recommendation Screenshot](assets/owen-recommendation.png)
 
 
-- **NeurIPS 2023 Paper**: [“Spring-Onset Detection with Satellite Data”]([https://example-link-to-paper.pdf](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/40/paper.pdf))  
+- **NeurIPS 2023 Paper**: [“Spring-Onset Detection with Satellite Data”](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/40/paper.pdf)  
   (I co-authored and presented this paper focused on machine learning for climate research.)
 
 ![Paper Screenshot](assets/research-paper.PNG)
