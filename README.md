@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Joel Hempel! 👋
 
-<!--
-**J0ELh/J0ELh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning and Full-Stack Developer** based in Vancouver, BC.
 
-Here are some ideas to get you started:
+- 🎓 **Final-year Computer Science student at UBC** (GPA: **4.0/4.33**)
+- 🏆 **SWE Intern** at Metrized Consulting Inc. (09/2023–08/2024), building ML-powered web applications
+- 💻 **Undergraduate Research Assistant** at Systopia Lab (05/2023–12/2023), focusing on ML for climate science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Highlights
+
+- **NeurIPS 2023 Paper**: [“Spring-Onset Detection with Satellite Data”](https://example-link-to-paper.pdf)  
+  (I co-authored and presented this paper focused on machine learning for climate research.)
+- **Professional Recommendation**: [LinkedIn Recommendation](https://linkedin.com/in/joelhempel#recommendations) from my Director of ML at Metrized Consulting.
+  - <details>
+    <summary>View a Screenshot of the Recommendation</summary>
+    
+    ![LinkedIn Recommendation Screenshot](assets/owen_recommendation.png)
+    
+    </details>
+
+---
+
+## 🛠 Technologies & Tools
+
+- **Languages**: Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS  
+- **Frameworks & Libraries**: PyTorch, React, Next.js, FastAPI, scikit-learn  
+- **Web/Databases**: Supabase, SQL, Tailwind, PHP  
+- **Tools**: Git, Docker, AWS, Google Cloud, JUnit, Google Colab  
+- **ML Specialties**: Neural Networks, Computer Vision, Language Models  
+
+---
+
+## 🔒 Private Projects
+
+Much of my recent work at **Metrized** and **Systopia Lab** is in private repositories.
+
+- **Interested?** Contact me for a demo or code samples:
+  - **Email:** [joelhempel35@gmail.com](mailto:joelhempel35@gmail.com)
+  - **LinkedIn:** [linkedin.com/in/joelhempel](https://linkedin.com/in/joelhempel)
+
+I’m happy to discuss details one-on-one, subject to any confidentiality agreements.
+
+---
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/joelhempel](https://linkedin.com/in/joelhempel)
+- **GitHub:** [github.com/J0ELh](https://github.com/J0ELh)
+- **Email:** [joelhempel35@gmail.com](mailto:joelhempel35@gmail.com)
+
+Feel free to reach out if you’d like to collaborate on projects, discuss research, or learn more about my work!
