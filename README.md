@@ -10,15 +10,16 @@
 
 ## ⚡ Highlights
 
+- **Professional Recommendation**: [LinkedIn Recommendation](https://linkedin.com/in/joelhempel#recommendations) from my Director of ML at Metrized Consulting.
+
+![LinkedIn Recommendation Screenshot](assets/owen-recommendation.png)
+
+
 - **NeurIPS 2023 Paper**: [“Spring-Onset Detection with Satellite Data”](https://example-link-to-paper.pdf)  
   (I co-authored and presented this paper focused on machine learning for climate research.)
-- **Professional Recommendation**: [LinkedIn Recommendation](https://linkedin.com/in/joelhempel#recommendations) from my Director of ML at Metrized Consulting.
-  - <details>
-    <summary>View a Screenshot of the Recommendation</summary>
+
+![Paper Screenshot](assets/research-paper.PNG)
     
-    ![LinkedIn Recommendation Screenshot](assets/owen_recommendation.png)
-    
-    </details>
 
 ---
 
